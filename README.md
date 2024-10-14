@@ -6,8 +6,6 @@ This project compares multiple models for identifying handwritten digits from th
 - Logistic Regression
 - Multilayer Perceptron (MLP)
 - Convolutional Neural Network (CNN)
-- Random Forest (Optional: Can be included if extended)
-- Support Vector Machines (Optional)
 
 ## Project Structure
 
